@@ -1,0 +1,8 @@
+h1{color:#0000FF;font-family:serif;font-size:200%;background-color:red;border:2px solid black;padding:10px;margin:0 auto}
+p {color:red;font-size:200%;font-family:Verdana;background-color:yellow;margin:0 auto}
+p#yada {color:blue;background-color:red}
+p.yada {color:black;background-color:red}
+p#test {background-color:white;color:black;font-size:100%}
+a:link {color:green;background-color:transparent;text-decoration:none}
+a:visited {color:pink;background-color:transparent;text-decoration:none}
+

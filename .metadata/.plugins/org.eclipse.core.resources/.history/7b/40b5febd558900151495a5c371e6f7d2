@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<style>
+			p {color:red;font-size:200%;text-align:right}
+			h1{color:blue}
+		</style> 
+		<title>제목입니다.</title>
+	</head>
+	<body>
+		<h1>CSS실습</h1>
+		<p>
+			Hello World!
+		</p>
+		
+	</body>
+</html>
