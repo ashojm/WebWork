@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="css/base.css"/>
+		<title>제목입니다.</title>
+	</head>
+	<body>
+		<h1>CSS실습</h1>
+		<p>
+			Hello World!
+		</p>
+		<p id="test">
+			<a href="second.html" target="_blank">야다짱</a>
+		</p>
+		<p id="yada">
+			<a href="second.html" target="">두번째 페이지 이동</a>	
+		</p>
+		<a href="second.html">
+			<img id="han" src="img/han01.jpg"alt="한가인" style="border:0"/>
+		</a>
+		<a href=".yada">한가인</a>
+	</body>
+</html>
